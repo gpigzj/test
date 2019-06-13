@@ -1,1 +1,2 @@
-hello:Hello spring could!
+hello:
+  word: Hello spring could!
